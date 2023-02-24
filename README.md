@@ -5,11 +5,11 @@ The Babylonian Engine is a website that provides users with a powerful tool for 
 
   
 
-### How it Works
+### **How it Works**
 The Babylonian Engine uses advanced image recognition technology to analyze images of Babylonian tablets and translate the cuneiform script into readable text. The website also has a drawing tool that allows users to draw individual signs and have them recognized instantly.
 
  
-### Features
+### **Features**
 
 
 #### Image Conversion
